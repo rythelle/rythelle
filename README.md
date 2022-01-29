@@ -16,7 +16,7 @@
 
 <div style="display: inline_block">
   <h5>
-  •	Learning:
+  •	Studying:
   &nbsp<br/><img align="center" height="40" width="40" alt="VueJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
   &nbsp&nbsp<img align="center" height="40" width="40" alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
   &nbsp&nbsp<img align="center" height="90" width="90" alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg"><br/>
