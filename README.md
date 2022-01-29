@@ -28,10 +28,12 @@
 ## 🧭 Social Networks
 
 <div style="display: inline_block">
+  <h5>
   •	LinkedIn:</br></br>
   <a href="https://www.linkedin.com/in/rythellecp20/" target="_blank">
   <img align="center" height="40" width="40" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
+  </h5>
 </div>
 
 ## 📈 Estatísticas
