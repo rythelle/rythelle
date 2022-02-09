@@ -1,6 +1,6 @@
 ## Hi, I’m Rythelle
 
-•	Passionate about technology and programming
+•	I love technology and programming 😊
 
 ## 💻 About me
 
