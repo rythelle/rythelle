@@ -7,19 +7,20 @@
 <div style="display: inline_block">
   <h5>
   •	Software developer:
-  &nbsp<br/><br/><img align="center" height="30" alt="NodeJS" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><br/><br/><br/>
+  &nbsp<br/><br/><img align="center" height="30" alt="NodeJS" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><br/><br/>
   •	Languages:
   &nbsp<br/><br/><img align="center" height="25" width="25" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   &nbsp&nbsp<img align="center" height="25" width="25" alt="TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <br/><br/><br/>
+  <br/><br/>
   •	Frameworks and technologies:
   &nbsp<br/><img align="center" height="40" width="40" alt="Serverless" src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg">
   &nbsp&nbsp<img align="center" height="90" width="90" alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">
   <br/>
   •	Studying:
-  &nbsp<br/><br/><img align="center" height="40" width="40" alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
-  &nbsp&nbsp<img align="center" height="50" width="50" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <br/><br/><br/>
+  <br/ >
+  <br/ >
+  &nbsp&nbsp<img align="center" height="50" width="50" alt="VueJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <br/><br/>
   •	Always studying and learning:
   &nbsp&nbsp<br/><br/><img align="center" height="30" alt="NodeJS" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white""><br/>
   </h5>
